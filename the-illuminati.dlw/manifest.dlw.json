@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE ILLUMINATI",
+  "universe": "ILU · The Illuminati (debunk)",
+  "emergence": "",
+  "moniker": "⟦THE ILLUMINATI:ILU:40d552⟧",
+  "carbon": "the-illuminati.carbon.tiff (TIFF)",
+  "silicon": "the-illuminati.silicon.png (PNG)",
+  "seal_sha256": "9230d069fc481bb47bc9b5c647e7ee2bb50b36a8aeb4bdec8baccd37538eff2a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
